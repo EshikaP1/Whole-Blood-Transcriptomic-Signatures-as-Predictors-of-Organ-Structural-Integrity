@@ -1,0 +1,2 @@
+# Whole-Blood-Transcriptomic-Signatures-as-Predictors-of-Organ-Structural-Integrity
+Using blood to assess organ health is challenging due to scarce paired data and unclear definitions of healthy organs. Leveraging GTEx data from 970 individuals, we found blood gene expression correlates with structural age gaps in 11 tissues. This reveals blood holds predictive info about organ integrity, enabling future machine learning models.
